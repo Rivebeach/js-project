@@ -63,3 +63,69 @@ input[type=submit] {
     border-radius: 5px;
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .27);
 }
+
+#login {
+    display: none;
+}
+
+.tincat-card {
+    background-color: #ffffff;
+    height: 600px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.imgProfil {
+    height: 500px;
+    background-color: #dc4587;
+    background-image: url(../images/chats/resize/unsplash_chat_001_resize.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #2c2c2c;
+    padding-top: 25px;
+}
+
+.nav-profil {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.nav-profil>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    font-size: 2rem;
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.27);
+    border-radius: 100%;
+    transition: all .3s;
+}
+
+#like {
+    background-color: rgb(59, 172, 108);
+    border: 2px solid seagreen;
+}
+
+#run {
+    background-color: #ff7954af;
+    border: 2px solid #c85f41af;
+}
+
+#like:hover {
+    background-color: rgb(51, 146, 92);
+
+}
+
+#run:hover {
+    background-color: #da6748af;
+}
