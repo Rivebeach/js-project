@@ -1,19 +1,17 @@
 /* css du projet tincat*/
 
 * {
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
 }
 
 body {
-    max-width: 100vw;
-    height: 100vh;
     background-image: linear-gradient(to right, #d299c2 0%, #fef9d7 100%);
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
  
 #logo {
@@ -34,7 +32,6 @@ body {
 h1 {
     font-size: 65px;
     color: #2c2c2c;
-
 }
 
 form {
@@ -58,36 +55,36 @@ input {
 
 input[type=submit] {
     text-transform: uppercase;
-    background-image: linear-gradient(to right, #d299c2 0%, #fef9d7 100%);;
+    background-image: linear-gradient(to right, #d299c2 0%, #fef9d7 100%);
+    color: #ffffff;
     border: none;
     border-radius: 5px;
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .27);
 }
 
-#login {
-    display: none;
-}
-
 .tincat-card {
     background-color: #ffffff;
-    height: 600px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     border-radius: 5px;
 }
 
 .imgProfil {
-    height: 500px;
-    background-color: #dc4587;
-    background-image: url(../images/chats/resize/unsplash_chat_001_resize.jpg);
+    height: 300px;
+    background-color: #ffffff;
     background-position: center;
     background-size: cover;
+}
+
+.tincat-card h3 {
+    text-align: center;
+    padding-top: 150px;
 }
 
 h2 {
     text-align: center;
     font-size: 1.8rem;
     color: #2c2c2c;
-    padding-top: 25px;
 }
 
 .nav-profil {
@@ -112,26 +109,22 @@ h2 {
 }
 
 #like {
-    background-color: rgb(59, 172, 108);
-    border: 2px solid seagreen;
+    background-color: #00d286;
+    border: 2px solid #00a86b;
 }
 
 #run {
-    background-color: #ff7954af;
-    border: 2px solid #c85f41af;
+    background-color: #ffadca;
+    border: 2px solid #ff5794;
 }
 
 #like:hover {
-    background-color: rgb(51, 146, 92);
+    background-color: #00a86b;
 
 }
 
 #run:hover {
-    background-color: #da6748af;
-}
-
-#profils {
-    display: none;
+    background-color: #ff5794;
 }
 
 #circle {
@@ -145,9 +138,6 @@ h2 {
 
 @keyframes spin {
     0% {transform: rotate(0deg);}
-    25% {transform: rotate(90deg);}
-    50% {transform: rotate(180deg);}
-    75% {transform: rotate(270deg);}
     100% {transform: rotate(360deg);}
 }
 
