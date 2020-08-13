@@ -1,0 +1,69 @@
+.rain{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ac171fc-cf5f-4759-bc7c-147f269a2540/danfd7l-c36670bf-9aa2-4ca6-b282-1cbf11fd3de2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmFjMTcxZmMtY2Y1Zi00NzU5LWJjN2MtMTQ3ZjI2OWEyNTQwXC9kYW5mZDdsLWMzNjY3MGJmLTlhYTItNGNhNi1iMjgyLTFjYmYxMWZkM2RlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.-JlOzIFJAini2To8LJuBM1BxvUps1RnYWh30mTgZrgM);
+}
+
+.clouds{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06653b48-43c3-403f-9d72-c1c5519db560/dcq5w3i-01876c9e-77e0-4ea1-b136-604991859de7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMDY2NTNiNDgtNDNjMy00MDNmLTlkNzItYzFjNTUxOWRiNTYwXC9kY3E1dzNpLTAxODc2YzllLTc3ZTAtNGVhMS1iMTM2LTYwNDk5MTg1OWRlNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.sbO-rp2RN-RO9o8CoI9t6kFNFJE9pi_Eotn8yg4KT2s);
+}
+
+.clear{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7674aee8-a93d-4e4a-8a60-456b3770bbba/d7xaxaa-dd7a76e8-08c8-4e17-bf22-2b26ee1abb81.jpg/v1/fill/w_1280,h_854,q_75,strp/washington_dc_cherry_blossoms__freebie__by_boldfrontiers_d7xaxaa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04NTQiLCJwYXRoIjoiXC9mXC83Njc0YWVlOC1hOTNkLTRlNGEtOGE2MC00NTZiMzc3MGJiYmFcL2Q3eGF4YWEtZGQ3YTc2ZTgtMDhjOC00ZTE3LWJmMjItMmIyNmVlMWFiYjgxLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LZXExjLD9Sb9z11Xih4zm87H-Wq6ZxnwGRsIOken860);
+}
+
+.snow{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7125de6-d855-4767-9eab-04cdd7f9212f/dcsga8u-a41dbecd-05c4-445d-adb0-1642593026cb.jpg/v1/fill/w_1024,h_970,q_75,strp/snowflakes_are_kisses_from_heaven_by_autumniulia_dcsga8u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD05NzAiLCJwYXRoIjoiXC9mXC9kNzEyNWRlNi1kODU1LTQ3NjctOWVhYi0wNGNkZDdmOTIxMmZcL2Rjc2dhOHUtYTQxZGJlY2QtMDVjNC00NDVkLWFkYjAtMTY0MjU5MzAyNmNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KHT9MUmMj5O_FL2SYqOPYdABkqDXKBig2DpjBba8bmE);
+}
+
+.mist{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3047d0f0-f6ea-4d15-b34c-f8686e37aeb5/d5o07wr-c698e75a-2826-4073-a5b2-4e35549341fe.jpg/v1/fill/w_1280,h_854,q_75,strp/mist_by_freudian_field_day_d5o07wr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04NTQiLCJwYXRoIjoiXC9mXC8zMDQ3ZDBmMC1mNmVhLTRkMTUtYjM0Yy1mODY4NmUzN2FlYjVcL2Q1bzA3d3ItYzY5OGU3NWEtMjgyNi00MDczLWE1YjItNGUzNTU0OTM0MWZlLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.P8xDIBFAKoQlPHBgGkZ8v5dQLQr0hYlpIRLk70jTVHM);
+}
+
+.drizzle{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7ca9d6c-c9f1-4413-9a5e-c7846fca1ca7/d8lbfti-3db1aa06-4f90-4299-bb45-b20c0d43f722.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzdjYTlkNmMtYzlmMS00NDEzLTlhNWUtYzc4NDZmY2ExY2E3XC9kOGxiZnRpLTNkYjFhYTA2LTRmOTAtNDI5OS1iYjQ1LWIyMGMwZDQzZjcyMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.xNbdWjR5ZromxOSWZu8DSCBGAhsFVU386Zjfny1zZHk);
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3em;
+    position: relative;
+}
+
+i.wi {
+    font-size: 5em;
+    line-height: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.tooltip {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: #ffffff;
+    background-color: #222222;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 12px;
+    transition: opacity .3s, top .5s;
+}
+
+h1:hover .tooltip {
+    top: -50px;
+    opacity: 1;
+}
