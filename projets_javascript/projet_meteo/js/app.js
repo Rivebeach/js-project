@@ -15,10 +15,10 @@ async function main() {
 const ip = await fetch("https://api.ipify.org?format=json")
     .then(resultat => resultat.json())
     .then(json => json.ip)
-const ville = await fetch("http://freegeoip.app/json/" + ip)
+const ville = await fetch("https://freegeoip.app/json/" + ip)
     .then(resultat => resultat.json())
     .then(json => json.city)
-const meteo = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${ville}&APPID=dbc704c3caeed2f8a8536e28b6453833&lang=fr&units=metric`)
+const meteo = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${ville}&APPID=dbc704c3caeed2f8a8536e28b6453833&lang=fr&units=metric`)
     .then(resultat => resultat.json())
     .then(json => json)
 console.log(ip);
